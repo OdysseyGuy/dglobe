@@ -1,0 +1,19 @@
+{
+  "name": "dglobe",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.136.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
